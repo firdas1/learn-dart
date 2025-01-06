@@ -1,0 +1,8 @@
+GITHUB AKKOUNT LINK - https://github.com/firdas1
+
+06.01.2025:
+Sintaksis bu dasturlash tilida kod yozish qoidalari.
+
+- hamma kod main() {} ichida bo'lishi kerak ekan
+
+- print - chop etish/print qilish
